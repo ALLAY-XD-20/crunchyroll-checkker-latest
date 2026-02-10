@@ -24,7 +24,7 @@ python mine.pyc
 ```bash
 git clone https://github.com/ALLAY-XD-20/crunchyroll-checkker-latest.git
 cd crunchyroll-checkker-latest
-python mine.pyc
+python mine.py
 ```
 
 ---
